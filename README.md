@@ -1,3 +1,3 @@
 ## 文档
 
-- [Python学习书籍推荐](./python-books.md)
+- [Python学习书籍推荐](./md/python-books.md)

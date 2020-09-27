@@ -22,15 +22,12 @@
 
 #### 《Python编程：从入门到实践》
 
-<img src="./images/python-books/0100fda4486fc72b3548.jpg" width="500">
-
 
 非常基础的入门书籍，适合对Python感兴趣的任何层次的读者阅读，零基础入门。从基本概念到完整项目开发，帮助零基础读者迅速掌握Python编程上到有编程基础的程序员，下到10岁少年，想入门Python并达到可以开发实际项目的水平，本书都是非常推荐的！
 
+<img src="./images/python-books/0100fda4486fc72b3548.jpg" width="400">
 
 #### 《Python核心编程（第3版）》
-
-<img src="./images/python-books/s28754071.jpg" width="500">
 
 《Python核心编程》系列一直是畅销的Python书籍。相比《Python编程：从入门到实践》，这本书适合有一定Python基础的同学学习，对于前面刚好学习了前面慕课网两门课程的同学来说，是非常合适的。
 
@@ -42,23 +39,25 @@
 
 第三部分则为一个补充/实验章节，包括文本处理以及一些其他内容。 
 
-#### 《流畅的Python》
+<img src="./images/python-books/s28754071.jpg" width="400">
 
-<img src="./images/python-books/s29434304.jpg" width="500">
+#### 《流畅的Python》
 
 同样作为Python语言进阶的书籍，这本书从很多新的角度介绍Python语言的特性。特别是关于上下文管理器、装饰器、协程和Future的部分，可以看到很多特别的技术，非常有意思，大开眼界。
 
-#### 《Python Cookbook》
+<img src="./images/python-books/s29434304.jpg" width="400">
 
-<img src="./images/python-books/s28259942.jpg" width="500">
+#### 《Python Cookbook》
 
 《Python Cookbook》是一本非常畅销的Python书籍，评分也很高，内容上比较模块化，其主题涵盖了数据结构和算法，字符串和文本，数字、日期和时间，迭代器和生成器，文件和I/O，数据编码与处理，函数，类与对象，元编程，模块和包，网络和Web编程，并发，实用脚本和系统管理，测试、调试以及异常，C语言扩展等。常见的Python问题都可以从中找到答案。
 
+<img src="./images/python-books/s28259942.jpg" width="400">
+
 #### 《Effective Python》
 
-<img src="./images/python-books/s28384052.jpg" width="500">
-
 和前面的不同，这本书专注于介绍使用更加Pythonic的方式编程，让Python在你的手上可以更好的发挥出Python语言本身的强大功能，写出耦合度低、更加健壮、更加高效的代码。
+
+<img src="./images/python-books/s28384052.jpg" width="400">
 
 ### Python Web框架系列
 
@@ -83,6 +82,7 @@
 Tornado作为比较难的Python Web框架，理解起来有一些晦涩，主要是对IOLoop、coroutine等概念比较陌生，官方文档只有英文的，不过国内有很多热心的开发者翻译了中文版本，可以结合着来看。同样推荐通过官方文档学习。
 
 [Tornado官方文档](https://www.tornadoweb.org/en/stable/)
+
 [Tornado中文文档](https://www.osgeo.cn/tornado/)
 
 ### Python 运维系列
@@ -93,17 +93,17 @@ Tornado作为比较难的Python Web框架，理解起来有一些晦涩，主要
 
 #### 《鸟哥的Linux私房菜基础学习篇》
 
-<img src="./images/python-books/s4399937.jpg" width="500">
+<img src="./images/python-books/s4399937.jpg" width="400">
 
 #### 《鸟哥的Linux私房菜服务器篇》
 
-<img src="./images/python-books/s10328185.jpg" width="500">
+<img src="./images/python-books/s10328185.jpg" width="400">
 
 #### 《Python自动化运维》
 
-<img src="./images/python-books/s27804689.jpg" width="500">
-
 挺全面的一本书，围绕自动化运维介绍了系统基础信息、服务监控、数据报表、系统安全等各个模块的运维技能，内容的广度满足大家对运维技术的了解，但深度仍需要自行钻研。
+
+<img src="./images/python-books/s27804689.jpg" width="400">
 
 ----
 
@@ -112,4 +112,4 @@ Tornado作为比较难的Python Web框架，理解起来有一些晦涩，主要
 - [慕课网主页](https://www.imooc.com/t/350968)
 - 公众号：
 
-    <img src="./images/qrcode.png" width="500">
+    <img src="./images/qrcode.png" width="400">
